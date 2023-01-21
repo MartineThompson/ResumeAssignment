@@ -1,0 +1,81 @@
+/* 
+COLORS
+Light Purple  #c4acac (196,172,172)
+Beige/Brown #9e7676	(158,118,118)
+Tan    #d0b8a8	(208,184,168)
+Sand   #dfd3c3	(223,211,195)
+gray  #C6BDB5   (198,189,181)
+text color #333333 (51,51,51)
+*/
+
+/*GLOBAL STYLES 
+------------------------*/
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+}
+
+a {
+    color: #F5F5DC;
+}
+
+img{
+    width: 300px;
+}
+
+
+
+/*PROFILE
+-----------------------*/
+header{
+    background-color: #c4acac ;
+    color: #333333;;
+}
+.heading-name {
+    font-size: 60px;
+
+}
+.heading-job{
+    font-size: 40px;
+}
+
+/*PROJECTS
+-------------------*/
+.projects {
+    background-color:#d0b8a8 ;
+    color: #333333;;
+}
+
+.projects a {
+    background-color: #333333;
+    padding: 3px;
+    border-radius: 5px;
+}
+.projects a:hover {
+    background: rgba(51,51,51,75%)
+}
+
+/* WORK EXPERIENCE
+----------------------*/
+.work-experience {
+    background-color: #9e7676 ;
+    color: #333333;;
+}
+
+
+
+/* EDUCATION
+---------------------------*/
+.education {
+    background-color: #dfd3c3;
+    color: #333333;
+}
+
+
+
+/* CONTACT
+-------------------------*/
+footer {
+    background-color: #C6BDB5;
+    color: #333333;
+}
+
