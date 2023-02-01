@@ -29,13 +29,22 @@ img{
 header{
     background-color: #c4acac ;
     color: #333333;;
+    text-align: center;
+    font-family: 'Cinzel', serif;
+
 }
 .heading-name {
     font-size: 60px;
+    text-shadow:3px 3px white;
+    text-transform: uppercase;
+    font-family: 'Playfair Display', serif;
+
 
 }
 .heading-job{
     font-size: 40px;
+    font-style: italic;
+    
 }
 
 /*PROJECTS
@@ -43,6 +52,9 @@ header{
 .projects {
     background-color:#d0b8a8 ;
     color: #333333;;
+    font-size: 20px;
+    font-family: 'Cinzel', serif;
+    
 }
 
 .projects a {
@@ -53,12 +65,19 @@ header{
 .projects a:hover {
     background: rgba(51,51,51,75%)
 }
+.mountain-inn{
+    text-decoration: underline;
+}
+.vicious-cycles{
+    text-decoration: underline;
+}
 
 /* WORK EXPERIENCE
 ----------------------*/
 .work-experience {
     background-color: #9e7676 ;
     color: #333333;;
+    font-family: 'Cinzel', serif;
 }
 
 
@@ -68,6 +87,7 @@ header{
 .education {
     background-color: #dfd3c3;
     color: #333333;
+    font-family: 'Cinzel', serif;
 }
 
 
@@ -77,5 +97,7 @@ header{
 footer {
     background-color: #C6BDB5;
     color: #333333;
+    font-family: 'Cinzel', serif;
+ 
 }
 
